@@ -66,3 +66,7 @@ Configure também as informações de conexão WiFi e MQTT de acordo com sua red
 ## Uso
 
 Após carregar o código no ESP32, o dispositivo enviará informações sobre a luminosidade e o estado do LED para o servidor especificado. Os tópicos MQTT utilizados estão configurados nas constantes `MQTT_TOPIC_PUBLISH_LUMINOSITY` e `MQTT_TOPIC_PUBLISH_LED`.
+
+## Link de acsso para o nosso pitch do projeto:
+https://youtu.be/J_aqqTu-79g?si=vd4uX370-4J_wUy9
+
