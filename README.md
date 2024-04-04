@@ -1,12 +1,9 @@
 # Sistema de Iluminação Inteligente utilizando um servidor
 > Status: Finalizado ✔️
 
-## Grupo:
-- Arthur Petrin – RM: 98735 
-- Gabriel Rocha – RM: 550788 
-- Gustavo Calce – RM: 550638 
-- Julia Neves – RM: 98680 
-- Matheus Gusmão – RM: 550826
+## Responsável pelo projeto:
+- Gabriel Rocha
+- Linkedin: www.linkedin.com/in/gabrieldiegues
 
 ![ESP32_final_version](https://github.com/gabrieldfr/Sprint4_Edge/assets/127216244/9bc16561-8993-43ca-a3f5-58850d38b7ae)
 
